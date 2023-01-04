@@ -1,17 +1,20 @@
-#Домашнее задание к занятию "`Системы мониторинга`" - `Demshin Anton`
+#Домашнее задание к занятию "`Zabbix part 2`" - `Demshin Anton`
 
 
 ---
 
 ### Задание 1
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/Screenshot%20from%202022-12-07%2011-45-44.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/task_1.png)
 
 ---
 
-### Задание 2
+### Задание 2 + 3
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/Screenshot%20from%202022-12-07%2012-11-52.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/task%202-3.png)
 
 ---
 
+### Задание 4
+
+![alt text](https://github.com/UserWhoUser/img/blob/master/task%204.png)
