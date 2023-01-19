@@ -1,21 +1,25 @@
-#Домашнее задание к занятию "`Prometheus`" - `Demshin Anton`
+#Домашнее задание к занятию "`Prometheus-part 2`" - `Demshin Anton`
 
 
 ---
 
 ### Задание 1
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/prometheus.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/task%201.png)
 
 ---
 
 ### Задание 2
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/node-exporter.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/prometheusAlert.png)
+
+---
+
+![alt text](https://github.com/UserWhoUser/img/blob/master/alertmanager.png)
 
 ---
 
 ### Задание 3
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/conf%20stat.png)
-![alt text](https://github.com/UserWhoUser/img/blob/master/targets.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/docker%20endpoint.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/docker%20targets.png)
