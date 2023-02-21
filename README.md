@@ -36,3 +36,7 @@ Weighted Round Robin - это тот же round robin, но имеет допо�
 ![alt text](https://github.com/UserWhoUser/img/blob/master/nginx.png)
 
 ---
+
+###Задание 5
+
+![alt text](https://github.com/UserWhoUser/img/blob/master/curl%20nginx.png)
