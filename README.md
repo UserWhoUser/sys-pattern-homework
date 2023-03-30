@@ -5,36 +5,23 @@
 
 ###Задание 1
 
-* Повышение производительности достигается за счет
-складывания в кэш данных, к которым чаще всего происходит
-обращение; 
-*  Увеличение скорость ответа;
-* Экономия ресурсов базы данных, например, применяя
-кэширование тяжелых запросов;
-* Сглаживание бустов трафика. Например, во время черной
-пятницы онлайн-магазины используют кэш, чтобы переживать
-резкое увеличение трафика.  
- 
+![alt text](https://github.com/UserWhoUser/img/blob/master/elasticsearch.png) 
 
 ---
 
 ###Задание 2
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/task2.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/kibana.png)
  
 ---
 
 ###Задание 3
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/task3.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/logstash.png)
 ---
 
 ###Задание 4
 
-![alt text](https://github.com/UserWhoUser/img/blob/master/task4.png)
+![alt text](https://github.com/UserWhoUser/img/blob/master/filebeat.png)
 
 ---
-
-###Задание 5
-
-![alt text](https://github.com/UserWhoUser/img/blob/master/task5.png)
